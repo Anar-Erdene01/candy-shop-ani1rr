@@ -12,6 +12,8 @@
 }
 
 .btnLogin-popup{
+    border: none;
+    
     width: 130px;
     height: 50px;
     background: transparent;
